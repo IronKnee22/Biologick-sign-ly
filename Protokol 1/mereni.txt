@@ -1,0 +1,423 @@
+L11 - Reaction Time I (4.1.7 Nov  3 2022)
+File name: darsa-L11
+20.02.2024
+11:20
+
+Reaction Time Summaries:
+
+Recording  1: Random-interval auditory stimulus, dominant hand response.
+#  1 =  0.177 seconds
+#  2 =  0.164 seconds
+#  3 =  0.205 seconds
+#  4 =  0.161 seconds
+#  5 =  0.175 seconds
+#  6 =  0.204 seconds
+#  7 =  0.217 seconds
+#  8 =  0.186 seconds
+#  9 =  0.224 seconds
+#  10 =  0.178 seconds
+Reaction Time Mean =  0.189 seconds 
+
+Recording  2: Fixed-interval auditory stimulus, dominant hand response.
+#  1 =  0.201 seconds
+#  2 =  0.187 seconds
+#  3 =  0.134 seconds
+#  4 =  0.160 seconds
+#  5 =  0.150 seconds
+#  6 =  0.134 seconds
+#  7 =  0.134 seconds
+#  8 =  0.152 seconds
+#  9 =  0.150 seconds
+#  10 =  0.192 seconds
+Reaction Time Mean =  0.159 seconds 
+
+Recording  3: Random-interval auditory stimulus, nondominant hand response.
+#  1 =  0.233 seconds
+#  2 =  0.173 seconds
+#  3 =  0.275 seconds
+#  4 =  0.192 seconds
+#  5 =  0.198 seconds
+#  6 =  0.243 seconds
+#  7 =  0.177 seconds
+#  8 =  0.181 seconds
+#  9 =  0.185 seconds
+#  10 =  0.188 seconds
+Reaction Time Mean =  0.204 seconds 
+
+Recording  4: Fixed-interval auditory stimulus, nondominant hand response.
+#  1 =  0.177 seconds
+#  2 =  0.171 seconds
+#  3 =  0.182 seconds
+#  4 =  0.139 seconds
+#  5 =  0.157 seconds
+#  6 =  0.185 seconds
+#  7 =  0.226 seconds
+#  8 =  0.197 seconds
+#  9 =  0.147 seconds
+#  10 =  0.198 seconds
+Reaction Time Mean =  0.177 seconds 
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+L11 DATA REPORT
+	Student’s Name: 
+	Lab Section: 
+	Date: 
+I. Data and Calculations
+Subject Profile
+Name:			Height:			Age:
+Gender:			Weight:
+
+Note: This Data Report assumes that all lesson recordings were performed, which may not be the case for your lab. Please disregard any references to excluded recordings. 
+A. Manual calculation of reaction time
+Calculate the reaction time for the first click in initial recording: 	Delta T = 
+
+B. Summary of Subject’s Results (copy/paste from the 'Reaction Time Summaries" section of Journal)
+Table 11.1
+
+STIMULUS 
+NUMBER 
+REACTION TIMES (ms) 
+Dominant Hand 
+Nondominant Hand 
+(Random) 
+(Fixed interval) 
+(Random) 
+(Fixed interval) 
+1 
+
+
+
+
+2 
+
+
+
+
+3 
+
+
+
+
+4 
+
+
+
+
+5 
+
+
+
+
+6 
+
+
+
+
+7 
+
+
+
+
+8 
+
+
+
+
+9 
+
+
+
+
+10 
+
+
+
+
+Mean 
+
+
+
+
+
+C. Comparison of reaction time to number of presentations
+Complete Table 11.2 with data from the dominant hand fixed-interval/random recordings and calculate the mean for each presentation to determine if reaction times vary as each Subject progresses through the series of stimulus events.
+
+Table 11.2 Comparison of Reaction Times 
+
+  
+Student’s 
+Random Data (Dominant Hand) 
+Fixed Interval Data (Dominant Hand) 
+Name 
+Stimulus 1 
+Stimulus 5 
+Stimulus 10 
+Stimulus 1 
+Stimulus 5 
+Stimulus 10 
+1. 
+
+
+
+
+
+
+2. 
+
+
+
+
+
+
+3. 
+
+
+
+
+
+
+4. 
+
+
+
+
+
+
+5. 
+
+
+
+
+
+
+Calculate the Means: 
+
+
+
+
+
+
+
+
+D. Group Summary 
+Complete Table 11.3 with the mean for 5 students and calculate the group mean.
+
+Table 11.3
+
+Class Data 
+Random trials 
+Fixed-interval trials 
+Student Means 
+Dominant Hand 
+Nondominant Hand 
+Dominant Hand 
+Nondominant Hand 
+1. 
+
+
+
+
+2. 
+
+
+
+
+3. 
+
+
+
+
+4. 
+
+
+
+
+5. 
+
+
+
+
+Calculate the Group Means: 
+
+
+
+
+
+
+E. Variance and Standard Deviation
+	￼	￼
+￼	
+Calculate the variance and standard deviation for 5 students with data from Random Data (Table 11.4) and from Fixed Interval Data (Table 11.5).
+
+Table 11.4: Random Data (Nondominant hand)
+
+  
+ENTER 
+ENTER 
+CALCULATE 
+CALCULATE 
+Mean Reaction time for Student 
+￼ 
+Group Mean 
+￼ 
+Deviation 
+ ￼
+Deviation2 
+ ￼
+Student 
+  
+  
+  
+  
+Subject 1 
+  
+  
+  
+  
+Subject 2 
+  
+  
+  
+  
+Subject 3 
+  
+  
+  
+  
+Subject 4 
+  
+  
+  
+  
+Subject 5 
+  
+  
+  
+  
+  
+Sum the data for all students  = 
+￼ 
+= 
+Variance (σ2) = 
+Multiply by 0.25 = 
+ ￼
+= 
+Standard Deviation = 
+Take the square root of the variance = 
+  
+= 
+
+
+Table 11.5: Fixed Interval Data (Nondominant hand)
+
+  
+ENTER 
+ENTER 
+CALCULATE 
+CALCULATE 
+Mean Reaction time for Student 
+￼ 
+Group Mean 
+￼ 
+Deviation 
+￼ 
+Deviation2 
+￼ 
+Student 
+  
+  
+  
+  
+Subject 1 
+  
+  
+  
+  
+Subject 2 
+  
+  
+  
+  
+Subject 3 
+  
+  
+  
+  
+Subject 4 
+  
+  
+  
+  
+Subject 5 
+  
+  
+  
+  
+  
+Sum the data for all students  = 
+￼ 
+= 
+Variance (σ2) = 
+Multiply by 0.25 = 
+￼ 
+= 
+Standard Deviation = 
+Take the square root of the variance = 
+  
+= 
+
+
+
+
+II. Questions
+F.	What are the essential elements of a stimulus-response pathway? List them in their correct sequence.
+
+
+
+
+
+
+G.	Explain the difference between a voluntary reaction to a stimulus and a reflex response to a stimulus.
+
+
+
+
+
+
+H.	Reaction time using a dominant, voluntary motor pathway is usually shorter than when using an equivalent nondominant pathway. Explain.
+
+
+
+
+
+
+I.	Reaction times associated with repetitive fixed interval stimuli in a given stimulus-response situation usually decrease over a short time period to some minimal value and then remain stable. Explain.
+
+
+
+
+
+III.  OPTIONAL Active Learning Portion
+A.	Hypothesis
+
+B.	Materials
+
+C.	Method
+
+D.	Set Up
+
+E.	Experimental Results
+
+
+
+
+
+
+End of Lesson 11 Data Report
+
+
+BSL 4.0 DRL11-12222011
+
