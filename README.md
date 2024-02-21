@@ -1,10 +1,7 @@
 # Biologické signályly
 
 # 1
-
-sample and hold  - obvod pro kvantizaci
-
-alliasing
+[Proklik](prednasky/1.md)
 
 ## Stochastické signály
 
