@@ -3,21 +3,9 @@
 # 1
 [Proklik](prednasky/1.md)
 
-## Stochastické signály
-
-### Stacionární
-#### Ergorické
-Signál je popsattelný nějakými biologickými charakteristikamy  
-#### Neergorické
-opak
+# 2
+[Proklik](prednasky/2.md)
 
 
-
-### Nestacionární
-
-
-## Spojitý signál
-
-## Nespojitý signál
 
 
